@@ -1,0 +1,166 @@
+[
+  {
+    "aircraft": {
+      "iataCode": "B789",
+      "icao24": "C82741",
+      "icaoCode": "B789",
+      "regNumber": "ZK-NZQ"
+    },
+    "airline": {
+      "iataCode": "NZ",
+      "icaoCode": "ANZ"
+    },
+    "arrival": {
+      "iataCode": "LAX",
+      "icaoCode": "KLAX"
+    },
+    "departure": {
+      "iataCode": "AKL",
+      "icaoCode": "NZAA"
+    },
+    "flight": {
+      "iataNumber": "NZ2",
+      "icaoNumber": "ANZ2",
+      "number": "2"
+    },
+    "geography": {
+      "altitude": 10057.2,
+      "direction": 45.0,
+      "latitude": -29.09,
+      "longitude": -176.29
+    },
+    "speed": {
+      "horizontal": 1105.64,
+      "isGround": 0.0,
+      "vspeed": 0.0
+    },
+    "status": "en-route",
+    "system": {
+      "squawk": null,
+      "updated": 1585995674
+    }
+  },
+  {
+    "aircraft": {
+      "iataCode": "B789",
+      "icao24": "A2A3AF",
+      "icaoCode": "B789",
+      "regNumber": "N26960"
+    },
+    "airline": {
+      "iataCode": "UA",
+      "icaoCode": "UAL"
+    },
+    "arrival": {
+      "iataCode": "SYD",
+      "icaoCode": "YSSY"
+    },
+    "departure": {
+      "iataCode": "SFO",
+      "icaoCode": "KSFO"
+    },
+    "flight": {
+      "iataNumber": "UA863",
+      "icaoNumber": "UAL863",
+      "number": "863"
+    },
+    "geography": {
+      "altitude": 11582.4,
+      "direction": 230.0,
+      "latitude": 15.38,
+      "longitude": -143.84
+    },
+    "speed": {
+      "horizontal": 829.696,
+      "isGround": 0.0,
+      "vspeed": 0.0
+    },
+    "status": "en-route",
+    "system": {
+      "squawk": null,
+      "updated": 1585995670
+    }
+  },
+  {
+    "aircraft": {
+      "iataCode": "B77W",
+      "icao24": "C820F2",
+      "icaoCode": "B77W",
+      "regNumber": "ZK-OKR"
+    },
+    "airline": {
+      "iataCode": "NZ",
+      "icaoCode": "ANZ"
+    },
+    "arrival": {
+      "iataCode": "LAX",
+      "icaoCode": "KLAX"
+    },
+    "departure": {
+      "iataCode": "AKL",
+      "icaoCode": "NZAA"
+    },
+    "flight": {
+      "iataNumber": "NZ6080",
+      "icaoNumber": "ANZ6080",
+      "number": "6080"
+    },
+    "geography": {
+      "altitude": 10668.0,
+      "direction": 42.0,
+      "latitude": -13.19,
+      "longitude": -166.92
+    },
+    "speed": {
+      "horizontal": 964.892,
+      "isGround": 0.0,
+      "vspeed": 0.0
+    },
+    "status": "en-route",
+    "system": {
+      "squawk": null,
+      "updated": 1585995662
+    }
+  },
+  {
+    "aircraft": {
+      "iataCode": "B77W",
+      "icao24": "C81E05",
+      "icaoCode": "B77W",
+      "regNumber": "ZK-OKP"
+    },
+    "airline": {
+      "iataCode": "NZ",
+      "icaoCode": "ANZ"
+    },
+    "arrival": {
+      "iataCode": "YVR",
+      "icaoCode": "CYVR"
+    },
+    "departure": {
+      "iataCode": "AKL",
+      "icaoCode": "NZAA"
+    },
+    "flight": {
+      "iataNumber": "NZ1960",
+      "icaoNumber": "ANZ1960",
+      "number": "1960"
+    },
+    "geography": {
+      "altitude": 10668.0,
+      "direction": 34.0,
+      "latitude": 17.92,
+      "longitude": -151.54
+    },
+    "speed": {
+      "horizontal": 981.56,
+      "isGround": 0.0,
+      "vspeed": 0.0
+    },
+    "status": "en-route",
+    "system": {
+      "squawk": null,
+      "updated": 1585995702
+    }
+  }
+]
